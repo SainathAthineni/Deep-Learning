@@ -1,5 +1,5 @@
 streamlit==1.24.0
-requests
+request
 pillow
 numpy
 tensorflow>=2.13.0
